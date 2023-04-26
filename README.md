@@ -1,6 +1,6 @@
 # Team Weekend Warriors: CS753 Project
 
-##Members:
+## Members:
 ### Aditya Jain
 ### Govind Saju
 ### Sankalp Parashar
