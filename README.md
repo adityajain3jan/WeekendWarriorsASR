@@ -14,3 +14,6 @@ Our work includes:
 * Obtaining stable training of our implementation, and marked difference between the performances of WCTC loss and normal CTC loss on this task. 
 
 The results plots are present in the repository. Logfiles showing predicted sentences have also been uploaded.
+
+Reference tutorial (for normal implementation without WCTC): https://huggingface.co/blog/fine-tune-wav2vec2-english
+WCTC Paper link: https://openreview.net/pdf?id=0RqDp8FCW5Z
