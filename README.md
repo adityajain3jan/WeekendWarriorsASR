@@ -5,8 +5,9 @@
 ### Govind Saju
 ### Sankalp Parashar
 
-![image](https://user-images.githubusercontent.com/81635126/234790105-25574c8a-d6f5-4c03-a5f3-0c88643ce477.png)
-
+## Instructions to run:
+* Install the required modules: pip install -r requirements.txt
+* Run the bash script with the mask fraction parameter: script original .sh <mask_fraction> 
 
 The bash sript to run the code is 'script original.sh'. It requires the mask fraction as a parameter.
 
@@ -24,9 +25,9 @@ File descriptions:
 
 The results plots are present in the repository. Logfiles showing predicted sentences have also been uploaded.
 
-## Instructions to run:
-* Install the required modules: pip install -r requirements.txt
-* Run the bash script with the mask fraction parameter: script original .sh <mask_fraction> 
+Structure of modified DP:
+![image](https://user-images.githubusercontent.com/81635126/234790105-25574c8a-d6f5-4c03-a5f3-0c88643ce477.png)
+
 
 Reference tutorial (for normal implementation without WCTC): https://huggingface.co/blog/fine-tune-wav2vec2-english
 
