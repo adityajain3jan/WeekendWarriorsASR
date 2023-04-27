@@ -5,6 +5,9 @@
 ### Govind Saju
 ### Sankalp Parashar
 
+![image](https://user-images.githubusercontent.com/81635126/234790105-25574c8a-d6f5-4c03-a5f3-0c88643ce477.png)
+
+
 The bash sript to run the code is 'script original.sh'. It requires the mask fraction as a parameter.
 
 Our work includes:
