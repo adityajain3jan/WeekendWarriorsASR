@@ -5,7 +5,7 @@
 ### Govind Saju
 ### Sankalp Parashar
 
-## Diff of the code that generated our result (from colab.py) vs their code is in diff.txt.
+###  Diff of the code that generated our result (from colab.py) vs their code is in diff.txt. Reorganized the structure of repo for convenience. The logs are now in Logfiles folder, Plots are in Plots folder and Results are in Results_txt folder.
 
 ## Instructions to run:
 * Install the required modules: pip install -r requirements.txt
